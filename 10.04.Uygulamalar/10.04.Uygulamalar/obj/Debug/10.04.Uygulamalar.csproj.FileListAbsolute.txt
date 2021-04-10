@@ -1,0 +1,7 @@
+C:\Users\eMurat\source\repos\10.04.Uygulamalar\10.04.Uygulamalar\bin\Debug\10.04.Uygulamalar.exe.config
+C:\Users\eMurat\source\repos\10.04.Uygulamalar\10.04.Uygulamalar\bin\Debug\10.04.Uygulamalar.exe
+C:\Users\eMurat\source\repos\10.04.Uygulamalar\10.04.Uygulamalar\bin\Debug\10.04.Uygulamalar.pdb
+C:\Users\eMurat\source\repos\10.04.Uygulamalar\10.04.Uygulamalar\obj\Debug\10.04.Uygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\eMurat\source\repos\10.04.Uygulamalar\10.04.Uygulamalar\obj\Debug\10.04.Uygulamalar.exe
+C:\Users\eMurat\source\repos\10.04.Uygulamalar\10.04.Uygulamalar\obj\Debug\10.04.Uygulamalar.pdb
+C:\Users\eMurat\source\repos\10.04.Uygulamalar\10.04.Uygulamalar\obj\Debug\10.04.Uygulamalar.csprojAssemblyReference.cache
