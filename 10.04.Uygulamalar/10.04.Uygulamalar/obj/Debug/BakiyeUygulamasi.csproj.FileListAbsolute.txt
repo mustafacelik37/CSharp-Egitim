@@ -1,0 +1,7 @@
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\10.04.Uygulamalar\bin\Debug\10.04.Uygulamalar.exe.config
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\10.04.Uygulamalar\bin\Debug\10.04.Uygulamalar.exe
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\10.04.Uygulamalar\bin\Debug\10.04.Uygulamalar.pdb
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\10.04.Uygulamalar\obj\Debug\BakiyeUygulamasi.csprojAssemblyReference.cache
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\10.04.Uygulamalar\obj\Debug\BakiyeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\10.04.Uygulamalar\obj\Debug\10.04.Uygulamalar.exe
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\10.04.Uygulamalar\obj\Debug\10.04.Uygulamalar.pdb

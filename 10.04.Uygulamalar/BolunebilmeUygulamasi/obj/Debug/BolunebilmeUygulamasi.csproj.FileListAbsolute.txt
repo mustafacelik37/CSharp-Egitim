@@ -1,0 +1,7 @@
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\BolunebilmeUygulamasi\bin\Debug\BolunebilmeUygulamasi.exe.config
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\BolunebilmeUygulamasi\bin\Debug\BolunebilmeUygulamasi.exe
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\BolunebilmeUygulamasi\bin\Debug\BolunebilmeUygulamasi.pdb
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\BolunebilmeUygulamasi\obj\Debug\BolunebilmeUygulamasi.csprojAssemblyReference.cache
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\BolunebilmeUygulamasi\obj\Debug\BolunebilmeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\BolunebilmeUygulamasi\obj\Debug\BolunebilmeUygulamasi.exe
+C:\Github\CSharp-Egitim\10.04.Uygulamalar\BolunebilmeUygulamasi\obj\Debug\BolunebilmeUygulamasi.pdb
