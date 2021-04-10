@@ -46,7 +46,7 @@ namespace _10._04.Uygulamalar
             Console.Write("Lütfen Euro (EUR) bakiyenizi giriniz: ");
             miktarEUR = double.Parse(Console.ReadLine());
 
-            toplam = (miktarEUR * euroKur) + (miktarUSD * dolarKur) + miktarTL;
+            toplam = miktarEUR * euroKur + miktarUSD * dolarKur + miktarTL;
             Console.WriteLine("{0} TL kadar toplam bakiyeniz mevcut.",toplam);
             Console.ReadLine();
 
