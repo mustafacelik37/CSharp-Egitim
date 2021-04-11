@@ -1,0 +1,7 @@
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\KargoHesaplama\obj\Debug\KargoHesaplama.csprojAssemblyReference.cache
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\KargoHesaplama\obj\Debug\KargoHesaplama.csproj.CoreCompileInputs.cache
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\KargoHesaplama\bin\Debug\KargoHesaplama.exe.config
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\KargoHesaplama\bin\Debug\KargoHesaplama.exe
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\KargoHesaplama\bin\Debug\KargoHesaplama.pdb
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\KargoHesaplama\obj\Debug\KargoHesaplama.exe
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\KargoHesaplama\obj\Debug\KargoHesaplama.pdb
