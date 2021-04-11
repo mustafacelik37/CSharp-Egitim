@@ -1,0 +1,6 @@
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\GiyimFiyatlandirma\bin\Debug\GiyimFiyatlandirma.exe.config
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\GiyimFiyatlandirma\bin\Debug\GiyimFiyatlandirma.exe
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\GiyimFiyatlandirma\bin\Debug\GiyimFiyatlandirma.pdb
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\GiyimFiyatlandirma\obj\Debug\GiyimFiyatlandirma.csproj.CoreCompileInputs.cache
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\GiyimFiyatlandirma\obj\Debug\GiyimFiyatlandirma.exe
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\GiyimFiyatlandirma\obj\Debug\GiyimFiyatlandirma.pdb
