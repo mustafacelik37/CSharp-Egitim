@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiyimFiyatlandirma", "Giyim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalisanPrimHesaplama", "CalisanPrimHesaplama\CalisanPrimHesaplama.csproj", "{66567E09-5698-42F1-8E32-557A92EF4FA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinUygulamasi", "PinUygulamasi\PinUygulamasi.csproj", "{A7B22667-D6E7-44BB-9019-20278D8F6D89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{66567E09-5698-42F1-8E32-557A92EF4FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66567E09-5698-42F1-8E32-557A92EF4FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66567E09-5698-42F1-8E32-557A92EF4FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B22667-D6E7-44BB-9019-20278D8F6D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B22667-D6E7-44BB-9019-20278D8F6D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B22667-D6E7-44BB-9019-20278D8F6D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B22667-D6E7-44BB-9019-20278D8F6D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

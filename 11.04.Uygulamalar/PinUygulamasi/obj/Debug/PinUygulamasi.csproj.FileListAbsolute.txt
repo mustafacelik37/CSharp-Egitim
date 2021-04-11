@@ -1,0 +1,7 @@
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\PinUygulamasi\bin\Debug\PinUygulamasi.exe.config
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\PinUygulamasi\bin\Debug\PinUygulamasi.exe
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\PinUygulamasi\bin\Debug\PinUygulamasi.pdb
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\PinUygulamasi\obj\Debug\PinUygulamasi.csprojAssemblyReference.cache
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\PinUygulamasi\obj\Debug\PinUygulamasi.csproj.CoreCompileInputs.cache
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\PinUygulamasi\obj\Debug\PinUygulamasi.exe
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\PinUygulamasi\obj\Debug\PinUygulamasi.pdb
