@@ -45,6 +45,8 @@ namespace GiyimFiyatlandirma
             Console.ReadKey();
 
 
+
+
         }
     }
 }

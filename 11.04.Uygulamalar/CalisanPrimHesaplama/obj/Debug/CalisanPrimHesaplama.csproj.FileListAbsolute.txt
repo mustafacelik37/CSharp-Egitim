@@ -1,0 +1,7 @@
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\CalisanPrimHesaplama\bin\Debug\CalisanPrimHesaplama.exe.config
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\CalisanPrimHesaplama\bin\Debug\CalisanPrimHesaplama.exe
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\CalisanPrimHesaplama\bin\Debug\CalisanPrimHesaplama.pdb
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\CalisanPrimHesaplama\obj\Debug\CalisanPrimHesaplama.csprojAssemblyReference.cache
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\CalisanPrimHesaplama\obj\Debug\CalisanPrimHesaplama.csproj.CoreCompileInputs.cache
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\CalisanPrimHesaplama\obj\Debug\CalisanPrimHesaplama.exe
+C:\Github\CSharp-Egitim\11.04.Uygulamalar\CalisanPrimHesaplama\obj\Debug\CalisanPrimHesaplama.pdb
