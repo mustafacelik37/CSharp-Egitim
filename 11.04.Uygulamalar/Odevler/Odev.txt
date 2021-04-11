@@ -1,0 +1,6 @@
+/*
+Klavyeden 2adet sayı girişi yapalım.
+Sadece sayı girişi kabul edelim.
+1 ile 100 arası sayısı girişi yapılabilsin. 1 ve 100 dahil.
+İki sayının da toplama işlemi yapılabilir durumda olsun.
+*/
